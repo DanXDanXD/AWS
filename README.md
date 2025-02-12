@@ -1,51 +1,34 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Eu profissional;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Pedi ao Chat GPT para reescrever um resumo prodissional que fiz aplicando técnicas de UX writing.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Estava aplicando meu currículo para uma vaga de social media, 
+então escrevi um resumo sobre minhas aspirações profissionais de médio e longo prazo.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Este foi o texto que submeti ao Chat:
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+"Sou dedicada, responsável, tenho perfil analítico. Para mim é fácil visualizar a finalidade de cada estratégia proposta e 
+seguir os passos necessários para que se conclua com sucesso o objetivo estabelecido.
+Minha meta a curto prazo (5 anos contando a partir do ano de 2025)é conseguir carreira sólida como profissional de marketing digital,
+especificamente como social media, a longo prazo (8 anos contando a partir do ano de 2025) desejo me tornar analista de dado;
+para alcançar este objetivo faço cursos livres de estratégias de SEO, CRO e marketing de conteúdo, 
+participo de bootcamps sobre criação de prompts, análise de imagens e textos  com inteligência artificial.
+Atuo como social media  desde 2018. Minha primeira experiência foi na gestão de marketplace e marca, 
+com foco na promoção, otimização do desempenho do marketplace, e monitoramento de visibilidade e tráfego nos canais de comunicação da marca."
 
-### Exemplos e Insigths
+Este foi o txto que o ChatGPT entregou para mim:
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+"Sou uma profissional analítica, dedicada e responsável. Tenho facilidade em visualizar estratégias e executá-las com precisão para alcançar os objetivos.
+Atuo como social media desde 2018. Minha primeira experiência foi na gestão de marketplace e marca,
+focando na promoção, otimização de desempenho e monitoramento de tráfego e visibilidade nos canais de comunicação.
+Meu objetivo a curto prazo (até 2030) é consolidar minha carreira em marketing digital, com foco em social media. A longo prazo (até 2033), 
+quero me tornar analista de dados. Para isso, me especializo continuamente em SEO, CRO e marketing de conteúdo, 
+além de participar de bootcamps sobre criação de prompts, análise de imagens e textos com inteligência artificial.
+Estou sempre em busca de aprendizado e inovação para gerar resultados estratégicos e impactantes."
