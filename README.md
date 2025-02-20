@@ -4,7 +4,7 @@
 Este projeto explora  o uso da **Inteligência Artificial** em aplicações para melhorar a experiência do desenvolvedor. O objetivo é demonstrar como a IA pode otimizar processos de codificação, personalizar interações e aumentar a velocidade na criação do frontend.
 
 ## 🛠️ Tecnologias Utilizadas
-- **Angular(https://angular.dev/)** para desenvolvimento do frontend
+- **[Angular](https://angular.dev)** para desenvolvimento do frontend
 - **[ChatGPT](https://chat.openai.com)** para processamento de linguagem natural
 - **[Copilot](https://github.com/features/copilot)** para aprendizado de máquina no visual studio
 
