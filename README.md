@@ -1,51 +1,18 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A Jornada da IA: Trabalhando com clone de áudio 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Gravar um áudio de 20s. e efetuar o clone a um texto do tipo diálogo de what´s up.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[Vidnoz](https://pt.vidnoz.com/clonar-voz.html)** para clonagem e geração do áudio;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Neste projeto encontrado uma plataforma grátis chamada Vidnoz de IA baseada em suporte de vídeo,áudio e texto. Forncecido uma frase qualquer para o treianemnto e em seguida aplicado a outro tipo de texto, como exemplo um diálogo curto sobre uma reunião.
+
+"""Fala rafinha!!!! tudo bem ? hoje não pude comparecer na reunião porque me atrasei no trânsito, qualquer dúvida pode me retornar, Valeu!!!!!"""
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O áudio entendo eu que não conseguiu simular a mesma voz, saiu em uma velocidade muito lenta no 1x e se avança também perde a naturalidade, talvêz por ser um uso gratuíto, ou mesmo ter uma amostra muito curta disponível(20 segundos)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+ótima parte do treinamento para o início da exploração no mundo das IA´s
