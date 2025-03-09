@@ -16,5 +16,8 @@ Esta é a história de Nico, um cão que cresceu isolado num terraço e teve com
 - Uma história envolvente sobre identidade e aceitação.
 - Uma ilustração única para a capa do livro.
 
-## 💭 Reflexão (Opcional)
+## [📖 Leia a história completa](historia.md)
+
+
+## 💭 Reflexão
 A criação desta história mostrou como as IAs podem transformar eventos reais em narrativas cativantes. Foi interessante explorar a identidade do cão Nico, que aprendeu a viver fora dos padrões comuns, mostrando que nem sempre precisamos nos encaixar para sermos felizes.
