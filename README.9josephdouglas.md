@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Diferenciação de avatares feitos por IA e pessoas reais
 
 ## 📒 Descrição
 Análise de diferenciação de avatares feitos por ai e pessoas reais
