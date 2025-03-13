@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# PODCAST
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um entrevista simples e intuitiva sobre inteligência artificial e o que pode alterar no mercado de trabalho
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foram usadas o ChatGPT para criar uma entrevista de podcast, ElevenLabs para fazer a função text-to-speech e para criar os avatares dialogando foi utilizado o Colossyan
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foram usadas o ChatGPT para criar uma entrevista de podcast fake, logo em seguida usei o ElevenLabs para fazer a função text-to-speech e com o áudio gerado eu usei o Colossyan para criar os avatares dialogando.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://github.com/PHenrique-dev/lab-natty-or-not/blob/main/podcast.mp4
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Primeira vez que usei algumas ferramentas, foi interessante, vi como funciona a criação de alguns vídeos que já havia visto pela web.
 ```
 
 ### Exemplos e Insigths
