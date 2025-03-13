@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Cyberpunk - A Fusão entre Tecnologia, Sociedade e Rebeldia
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esse projeto em forma de Ebook busca explicar tudo relacionado ao gênero cyberpunk que se popularizou bastante nos últimos anos. Explicando, desde seu surgimento até exemplos de obras que possuem esse gênero. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+DeepSeek - Geração do conteúdo e roteiro.
+MidJourney - Arte visual.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foquei em criar algo voltado à um tema que gosto muito, tecnologia e futuro, foi então que lembrei do gênero cyberpunk. A partir disso, priorizei em formas de trazer alguma espécie de conhecimento voltado a esse tema, até que tive a ideia do Ebook, onde é explicado sua origem, sua expansão nas décadas de 80 e 90, as principais obras, temas centrais que são abordados, tendências atuais com relação ao gênero e exemplos de obras (séries, filmes, animes e jogos) que são parte do gênero cyberpunk.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Ebook de 4 páginas e 6 capítulos.
+um conjunto de 12 imagens com a temática cyberpunk.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+N/A
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
