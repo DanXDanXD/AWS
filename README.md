@@ -11,7 +11,7 @@ Este vídeo tem como objetivo explorar de forma acessível como a Inteligência 
 Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada.
 
 ## 🚀 Resultados
-O vídeo tras uma narrativa que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
+O vídeo traz uma narrativa que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
 
 [D-ID Vídeo](https://studio.d-id.com/share?id=659a82706a22439c0d44c07e788f01d8&utm_source=copy)
 
