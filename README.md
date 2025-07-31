@@ -1,51 +1,37 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+🧠 IA Para Negócios: Estratégias que Pensam por Você ✨
+📒 Descrição
+Este projeto mergulha na aplicação de IAs generativas no universo corporativo, explorando como essas ferramentas podem automatizar processos, gerar insights de mercado e criar conteúdo de marketing com realismo surpreendente. A proposta foi criar materiais empresariais — como campanhas, relatórios e roteiros de vendas — que parecem ter sido escritos por especialistas humanos.
 
-## 🚀 Introdução
+🤖 Tecnologias Utilizadas
+ChatGPT-4o (OpenAI): para geração de conteúdo de marketing, scripts e textos empresariais
 
-> Woooow! Look at this 👀
+DALL·E: para criação de imagens publicitárias e mockups de produtos
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+RunwayML: para vídeos corporativos gerados por IA com cenas realistas
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Synthesia: para geração de avatares apresentando pitches de vendas
 
-### Objetivos
+Beautiful.ai: para montar apresentações automatizadas e estilizadas
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Notion + Zapier + ChatGPT API: para automações de relatórios e resumos executivos semanais
 
-### Template
+🧐 Processo de Criação
+Pesquisa de dores e necessidades de negócios: Mapeei desafios comuns de pequenas e médias empresas, como falta de tempo para marketing, relatórios mal estruturados e dificuldade em treinar vendedores.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Roteirização com IA: Usei o ChatGPT para simular brainstorms de equipe, definindo personas, jornadas e copywriting persuasivo.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+Visual realista: Criei imagens promocionais e cenas de vídeo com DALL·E e RunwayML, focando em estética realista, clean e moderna.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Automação de rotina corporativa: Montei sistemas que geram relatórios e conteúdos comerciais com um clique, integrando APIs do ChatGPT com ferramentas de produtividade.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+🚀 Resultados
+Criação de um kit de marketing empresarial 100% gerado por IA, com posts, vídeos e campanhas realistas.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Demonstração de como uma IA pode escrever e apresentar uma proposta comercial completa, com visual elegante e linguagem humanizada.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Redução de tempo de produção em mais de 80% comparado ao processo humano tradicional.
 
-### Exemplos e Insigths
+Protótipo funcional de assistente de vendas por IA, que responde clientes e gera follow-ups automáticos.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+💭 Reflexão
+Criar algo que pareça “natty” com IA é um verdadeiro paradoxo: estamos buscando o natural através do artificial. O maior desafio foi impor limites à perfeição da IA, tornando o conteúdo mais crível e com pequenas imperfeições humanas. Ao humanizar a IA, ela se torna mais eficaz — e mais confiável — no mundo dos negócios.
