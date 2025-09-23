@@ -1,51 +1,25 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# PAM: Segurança de Acessos Privilegiados na Era da IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto é um experimento criativo e educacional em que todo o conteúdo é desenvolvido com Inteligência Artificial. O tema escolhido é Privileged Access Management (PAM), um dos pilares mais importantes da segurança da informação na era digital.
+A ideia é mostrar como as IAs generativas podem apoiar a criação de uma biblioteca multimídia de conhecimento sobre PAM, explorando textos, imagens, vídeos, apresentações e materiais de conscientização.
+Mais do que falar de segurança de acessos privilegiados, este projeto também ilustra como a própria IA pode ser usada como ferramenta de produção de conteúdo técnico, transformando pesquisa, explicação e design em um fluxo automatizado e criativo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+- Gamma AI
+- Chat GPT
+- Canvas AI
+  
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Um acervo de materiais sobre PAM e IA (PDF, VIDEO e APRESENTAÇÕES).
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 🔗 Links do acervo
 
-### Exemplos e Insigths
+- [**Clique aqui para acessar a apresentação**](https://github.com/caio9correa/PAM-IA/blob/fbee9a028d23e17fd786c3101a88415b4636d47f/Acervo/Apresenta%C3%A7%C3%A3o%20-%20PAM%20na%20era%20da%20IA.md)
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [**Clique aqui para acessar o Ebook**](https://github.com/caio9correa/PAM-IA/blob/8390467569b0eba845d1debfcdcf2bd21b483547/Acervo/Ebook%20-%20PAM%20na%20era%20da%20IA.md)
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+- [**Clique aqui para acessar o Video**](https://github.com/caio9correa/PAM-IA/blob/87258379a1ba00754df76847eaa860347f6005d1/Acervo/Video%20-%20PAM%20na%20era%20da%20IA.md)
