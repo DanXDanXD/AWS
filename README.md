@@ -1,51 +1,40 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Natty or Not – Criado com Claude.ai
 
-## 🚀 Introdução
+### Descrição
 
-> Woooow! Look at this 👀
+Projeto desenvolvido por Larissa Campos Cardoso no desafio Lab Natty or Not da DIO
+O objetivo foi explorar o poder das IAs Generativas para criar conteúdos visuais e textuais tão realistas que fazem o público se perguntar:
+    “Isso é natural ou IA?”
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+### Tecnologias Utilizadas
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+- Claude (Anthropic) → Criação de textos, descrições e legendas com linguagem natural e refinada
 
-### Objetivos
+- ChatGPT (auxiliar) → Organização de prompts e estrutura narrativa
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+- Canva → Edição final e composição estética das imagens
 
-### Template
+- GitHub → Versionamento do projeto e compartilhamento com a comunidade
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+### Processo de Criação
 
-## 📒 Descrição
-Breve descrição do seu projeto
+1- Ideação: Escolhi o tema “Realidade e Ilusão – O olhar da IA sobre o humano”.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+2- Prompt Engineering: Criei prompts descritivos detalhados no Claude para gerar textos e legendas coerentes com o conceito visual.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+3- Geração de Conteúdo: Combinei o texto gerado com imagens estilizadas no Canva, simulando fotografias e obras de arte realistas.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+4- Curadoria: Ajustei iluminação, cores e ângulos para deixar as imagens o mais “natty” possível.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+5- Publicação: Versionei o projeto no GitHub, com este README e exemplos de imagens.
 
-### Exemplos e Insigths
+### Resultados
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [Imagem.1](/exemplos/E-BOOK.md)
+- [Imagem.2](/exemplos/PODCAST.md)
+- [Imagem.3](/exemplos/VIDEO.md)
 
-## Links Interessantes
+## Reflexões Geradas
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Este projeto me fez perceber como a criatividade humana e a precisão da IA podem se unir para gerar algo único.
+O Claude mostrou um incrível potencial de interpretação de contexto e estilo, e o processo de ajuste manual reforçou o papel essencial do criador humano.
