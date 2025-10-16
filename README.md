@@ -30,9 +30,9 @@ O objetivo foi explorar o poder das IAs Generativas para criar conteúdos visuai
 
 ### Resultados
 
-- [Imagem.1](/exemplos/E-BOOK.md)
-- [Imagem.2](/exemplos/PODCAST.md)
-- [Imagem.3](/exemplos/VIDEO.md)
+- [Imagem.1](/exemplos/_Digital painting of a person contemplating a landscape, realistic-artistic style, soft colors, high detail, dramatic lighting, cinematic composition_.jpg)
+- [Imagem.2](exemplos/_Photorealistic scene of a person reading a book in a cozy cafe, natural sunlight coming through the window, cinematic lighting, realistic shadows, high detail_.jpg)
+- [Imagem.3](exemplos/_Ultra-realistic portrait of a young adult looking at the camera, soft natural lighting, blurred background, photorealistic, 8k resolution_.jpg)
 
 ## Reflexões Geradas
 
