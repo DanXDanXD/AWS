@@ -23,19 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Fiz um vídeo narrado sobre a criptomoeda Atoshi. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei o Gemini para roteirizar a fala/conteúdo e o D-ID para fazer o narração em vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Copiei os links de referência tanto no google.com como na playstore referentes à criptomoeda, em seguida digitei um prompt no Gemini solicitando que criasse um roteiro a respeito da cripto se baseando nos links-referência, depois de criado escolhi a voz e o narrador e colei o prompt/script, em seguida gerei o vídeo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O vídeo ficou simples porém útil, a voz e o vídeo ficaram sincronizados e atingiu o objetivo de informar a respeito.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Gostei de executar a missão visto que me fez experimentar as IA's de modo descontraído porém com foco profissional, vi a necessidade de desenvolver outras habilidades como a de edição ou mesmo de avaliar quais seriam outras IA's que poderiam ser usadas para produzir um produto mais comercial levando em conta um vídeo que seria exposto a um público específico.
 ```
 
 ### Exemplos e Insigths
