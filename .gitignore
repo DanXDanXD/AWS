@@ -1,0 +1,10 @@
+bin/
+obj/
+*.user
+*.vs/
+.vscode/
+secrets.json
+*.p12
+*.pfx
+*.key
+*.pem
