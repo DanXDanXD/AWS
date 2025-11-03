@@ -25,6 +25,6 @@ A apresentação final demonstra a velocidade e a qualidade do design que pode s
 ## 💭 Reflexão (Opcional)
 A utilização do Gamma neste desafio ressalta o quão "fake natty" pode ser o processo de criação de conteúdo de alta qualidade atualmente. A ferramenta eliminou a barreira do design e da formatação, permitindo que eu me concentrasse apenas na curadoria e na mensagem. Em poucos minutos, obtive um produto final profissional. Isso reforça que o futuro não é sobre "IA versus Humano", mas sim sobre **"Humano com IA"**. A curadoria e o toque final do criador continuam sendo essenciais para transformar a sugestão da IA em algo verdadeiramente autêntico.
 
-**Obs: Utilizei o Google Gemini PRO para me ajudar a adequar esse Readme para o Desafio da Dio, já que a idéia era utilizar a I.A. Generativa par completar o desafio.
+**Obs: Utilizei o Google Gemini PRO para me ajudar a adequar esse Readme para o Desafio da Dio, já que a idéia era utilizar a I.A. Generativa para completar o desafio.
 
 Feito com 💖 por lorac-2.
