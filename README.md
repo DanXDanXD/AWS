@@ -47,6 +47,7 @@ Este projeto mostra que a fronteira entre o natural e o sintético está se torn
 “Se não conseguimos distinguir o real do artificial... o que significa ser ‘real’?”
 
 ### Exemplos e Insigths
+- [Site com IA Geradas] https://leandrosp9.github.io/lab-natty-or-not/
 - [Fotos Geradas IA](/images/face1.jpg)
 - [Fotos Geradas IA](/images/face2.jpg)
 - [Fotos Geradas IA](/images/face3.jpg)
