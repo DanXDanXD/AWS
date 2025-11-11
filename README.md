@@ -23,20 +23,28 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto foi desenvolvido para o desafio "Natural ou Fake Natty?" da DIO
+A proposta é explorar o poder das IAs Generativas na criação de rostos humanos hiper-realistas, questionando até onde conseguimos distinguir o natural do artificial.
+O projeto apresenta uma galeria digital com retratos criados inteiramente por inteligência artificial, com expressões, traços e iluminação cuidadosamente ajustados para transmitir autenticidade emocional — mesmo sem existir de verdade.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT (OpenAI GPT-5) → Criação de prompts descritivos e narrativas de contexto
+Leonardo.ai → Geração de rostos humanos realistas
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pesquisa de referência — Analisei fotografias profissionais para entender proporções, iluminação e expressões humanas.
+Geração de prompts — Usei o ChatGPT para criar descrições detalhadas (ex: “retrato de uma mulher de 30 anos, luz suave de estúdio, olhar sereno, fundo cinza minimalista”).
+Criação dos rostos — Utilizei Leonardo.ai para gerar dezenas de variações até alcançar realismo natural.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Galeria “Natty or Not Faces” contendo 4 retratos IA hiper-realistas
+Insight principal: expressões sutis e imperfeições controladas tornam a IA mais “humana”
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Criar rostos humanos com IA foi um exercício de empatia e observação.
+O maior desafio não foi gerar o rosto “bonito”, mas o rosto imperfeitamente humano — aquele que parece real porque carrega sutis traços de emoção e naturalidade.
+Este projeto mostra que a fronteira entre o natural e o sintético está se tornando cada vez mais tênue. E nos desafia a refletir:
+“Se não conseguimos distinguir o real do artificial... o que significa ser ‘real’?”
 
 ### Exemplos e Insigths
 
