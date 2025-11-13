@@ -14,7 +14,7 @@ Baixei uma imagem aonde o rio aparecia com cumprimento e margens,  baixei e anex
 
 ## 🚀 Resultados
 Abaixo a foto criada com as especificações do prompt
-![Rio Tietê Futurista](./exemplo)
+![Rio Tietê Futurista](./exemplos/file_00000000946471f597bbc6f9e55c8ab3.png)
 
 ## 💭 Reflexão (Opcional)
 É desafiador pois eu nunca vi o rio assim, então é tirar uma fotografia da minha imaginação e traduzirem palavras. 
