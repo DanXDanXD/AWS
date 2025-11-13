@@ -1,51 +1,20 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Como é bom nadar no rio Tietê ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de imagem do Rio Tietê em SP em um estado completamente diferente do atual, li po e com pessoas arredores diverti do em um fim de semana de sol.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização
+- Pesquisa Google com a foto wue eu gostaria de reformular
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Baixei uma imagem aonde o rio aparecia com cumprimento e margens,  baixei e anexei ao prompt:
+"Crie uma nova imagem se baseando nesta (pode utilizar fontes da web pois trata-sedo rio Tietê e são Paulo capital) onde podemos ver o rio limpos nenhuma sujeira, que contenham pessoas ao redor brincando e fazendo piquenique  em um dia de sol. A imagem deve ser renderizada em modelo futuristico"
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Abaixo a foto criada com as especificações do prompt
+![Rio Tietê Futurista](./exemplos/file_00000000946471f597bbc6f9e55c8ab3.png)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+É desafiador pois eu nunca vi o rio assim, então é tirar uma fotografia da minha imaginação e traduzirem palavras. 
